@@ -1,0 +1,5 @@
+{
+  "name": "Muscat Bay Utilities Dashboard",
+  "description": "An advanced dashboard for monitoring and analyzing utility consumption and system health for Muscat Bay facilities, featuring water, electricity, and HVAC system analytics with AI-powered insights.",
+  "requestFramePermissions": []
+}
